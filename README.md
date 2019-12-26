@@ -1,2 +1,2 @@
 # my-essays
-These are my essays based on humanism, religion, politics, history and ethnography
+These are my essays based on humanism, religion, politics, history, ethnography, physics and metaphysics. I try to avoid mathematics since people usually do not want to read about it, and I am quite average in my math skills. I also try to avoid so-called computer sciences because the net is chock full of it, and I want to offer an alternative for people who want to "think" instead of just obeying and acting.
